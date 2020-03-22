@@ -1,5 +1,5 @@
 # HTTP-Server-Test
-TCP server implemented
+Basic HTTP server that supports HTTP/1.1 in C++
 
 ## Steps to run: 
 1. Clone this repo to your local directory
